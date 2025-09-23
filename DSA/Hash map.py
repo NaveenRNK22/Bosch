@@ -46,7 +46,7 @@ hash_map = HashMap(size=10)
 hash_map.put("001", "Vinesh")
 hash_map.put("002", "Sujan")
 hash_map.put("003", "Rogith")
-hash_map.put("004", "Naveen")
+hash_map.put("004", "Naveen")g
 
 hash_map.print_map()
 
